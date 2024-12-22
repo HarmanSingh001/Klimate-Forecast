@@ -1,50 +1,24 @@
-# React + TypeScript + Vite
+🌦️ Klimate-Forecast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Klimate-Forecast is a modern weather app built with React.js, leveraging Tanstack Query, Shadcn UI, Recharts, Tailwind CSS, and TypeScript. It integrates the OpenWeather API to deliver real-time weather updates with dynamic charts and a responsive, elegant UI.
 
-Currently, two official plugins are available:
+🔑 Key Features
+1. Real-time weather data with OpenWeather API integration.
+2. Interactive visualizations using Recharts.
+3. Efficient state management via Tanstack Query.
+4. Modern UI with Shadcn and Tailwind CSS.
+5. Fully type-safe with TypeScript.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+1. Frontend: React.js, Tailwind CSS, Shadcn UI
+2. Data Handling: Tanstack Query, OpenWeather API
+3. Charts: Recharts
+4. Language: TypeScript
 
-## Expanding the ESLint configuration
+🎯 Highlights
+1. Built a responsive, user-friendly weather app with interactive visualizations.
+2. Demonstrated expertise in API integration, state management, and TypeScript.
+3. Optimized for performance with modern tools like Tanstack Query and Recharts.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+🚀 Future Scope
+Multi-language support, advanced weather details, and user authentication.
