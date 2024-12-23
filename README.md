@@ -1,3 +1,5 @@
+![Project Preview](public/img_readme.png)
+
 🌦️ Klimate-Forecast
 
 Klimate-Forecast is a modern weather app built with React.js, leveraging Tanstack Query, Shadcn UI, Recharts, Tailwind CSS, and TypeScript. It integrates the OpenWeather API to deliver real-time weather updates with dynamic charts and a responsive, elegant UI.
