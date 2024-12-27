@@ -24,8 +24,6 @@ Klimate-Forecast is a modern weather app built with React.js, leveraging Tanstac
 
 ---
 
-<hr>
-
 <h4>🛠️ Built With</h4>
 
 -   **Frontend**: [React.js](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Shadcn UI](https://ui.shadcn.com)
@@ -34,8 +32,6 @@ Klimate-Forecast is a modern weather app built with React.js, leveraging Tanstac
 -   **Language**: [TypeScript](https://www.typescriptlang.org/)
 
 ---
-
-<hr>
 
 <h4>🌟 Future Scope</h4>
 
@@ -46,8 +42,6 @@ Klimate-Forecast is a modern weather app built with React.js, leveraging Tanstac
 5. **Mobile App Version**: Create a mobile-friendly version for iOS and Android users.
 
 ---
-
-<hr>
 
 <h4>🌐 Live Demo</h4>  
 Try the app here: [Live Demo](SOON DEPLOYED)
