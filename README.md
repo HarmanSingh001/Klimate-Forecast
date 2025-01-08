@@ -41,7 +41,3 @@ Klimate-Forecast is a modern weather app built with React.js, leveraging Tanstac
 4. **Push Notifications**: Notify users of severe weather alerts or daily weather forecasts.
 5. **Mobile App Version**: Create a mobile-friendly version for iOS and Android users.
 
----
-
-<h4>🌐 Live Demo</h4>  
-Try the app here: [Live Demo](SOON DEPLOYED)
